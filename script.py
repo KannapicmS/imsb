@@ -11,12 +11,6 @@ class Script(object):
 
     SOURCE_TXT = """Source: <a href='https://t.me/sasi7654/12'>CODE</a>"""
 
-<b>DEVS:</b>
-- <a href='https://t.me/sasi7654/12'>support</a>
-
-<b>SUPPORT GROUP</b>
-- <a href='https://t.me/+iSYT96ZcTrw5YWU9'>CMZ</a>"""
-
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
