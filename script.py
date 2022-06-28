@@ -1,33 +1,21 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+<b>My name is ദശമൂലം ദാമു...!</b>
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b> സുഖം തന്നെയെടെ</b>"""
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+    HELP_TXT = """<b>എന്തോ എങ്ങനെ </b>"""
 
-    HELP_TXT = """Hey {}
+    ABOUT_TXT = """<b>എന്നെക്കുറിച്ച് നിനക്ക് 1 ചുക്കും അറിയില്ല</b>""
 
-<b>Here Is The Help For My Commands.</b>"""
-
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
-➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-➥ Language: Python 𝟹
-➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
-➥ Build Status: v2.0.1 [ Beta ]"""
-
-    SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+    SOURCE_TXT = """Source: <a href='https://t.me/sasi7654/12'>CODE</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/sasi7654/12'>support</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/+iSYT96ZcTrw5YWU9'>CMZ</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
