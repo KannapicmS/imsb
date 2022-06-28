@@ -7,9 +7,9 @@ class Script(object):
 
     HELP_TXT = """<b>എന്തോ എങ്ങനെ </b>"""
 
-    ABOUT_TXT = """<b>എന്നെക്കുറിച്ച് നിനക്ക് 1 ചുക്കും അറിയില്ല</b>""
+    ABOUT_TXT = """<b>എന്നെക്കുറിച്ച് നിനക്ക് 1 ചുക്കും അറിയില്ല</b>"""
 
-    SOURCE_TXT = """Source: <a href='https://t.me/sasi7654/12'>CODE</a>
+    SOURCE_TXT = """Source: <a href='https://t.me/sasi7654/12'>CODE</a>"""
 
 <b>DEVS:</b>
 - <a href='https://t.me/sasi7654/12'>support</a>
